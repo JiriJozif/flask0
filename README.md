@@ -1,0 +1,1 @@
+# Primitivní Flask projekt
